@@ -1,3 +1,4 @@
+# KR2: Setskov
 import os
 import socket
 
